@@ -1,0 +1,14 @@
+C:\Users\OliverOwens\OneDrive - WLP\Classes\cs\year 12\Computer Science 12a-CoA 2026 WLG - Oliver Owens - OliverOwens\source\guantanamo\guantanamo\bin\Debug\net10.0\guantanamo.exe
+C:\Users\OliverOwens\OneDrive - WLP\Classes\cs\year 12\Computer Science 12a-CoA 2026 WLG - Oliver Owens - OliverOwens\source\guantanamo\guantanamo\bin\Debug\net10.0\guantanamo.deps.json
+C:\Users\OliverOwens\OneDrive - WLP\Classes\cs\year 12\Computer Science 12a-CoA 2026 WLG - Oliver Owens - OliverOwens\source\guantanamo\guantanamo\bin\Debug\net10.0\guantanamo.runtimeconfig.json
+C:\Users\OliverOwens\OneDrive - WLP\Classes\cs\year 12\Computer Science 12a-CoA 2026 WLG - Oliver Owens - OliverOwens\source\guantanamo\guantanamo\bin\Debug\net10.0\guantanamo.dll
+C:\Users\OliverOwens\OneDrive - WLP\Classes\cs\year 12\Computer Science 12a-CoA 2026 WLG - Oliver Owens - OliverOwens\source\guantanamo\guantanamo\bin\Debug\net10.0\guantanamo.pdb
+C:\Users\OliverOwens\OneDrive - WLP\Classes\cs\year 12\Computer Science 12a-CoA 2026 WLG - Oliver Owens - OliverOwens\source\guantanamo\guantanamo\obj\Debug\net10.0\guantanamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OliverOwens\OneDrive - WLP\Classes\cs\year 12\Computer Science 12a-CoA 2026 WLG - Oliver Owens - OliverOwens\source\guantanamo\guantanamo\obj\Debug\net10.0\guantanamo.AssemblyInfoInputs.cache
+C:\Users\OliverOwens\OneDrive - WLP\Classes\cs\year 12\Computer Science 12a-CoA 2026 WLG - Oliver Owens - OliverOwens\source\guantanamo\guantanamo\obj\Debug\net10.0\guantanamo.AssemblyInfo.cs
+C:\Users\OliverOwens\OneDrive - WLP\Classes\cs\year 12\Computer Science 12a-CoA 2026 WLG - Oliver Owens - OliverOwens\source\guantanamo\guantanamo\obj\Debug\net10.0\guantanamo.csproj.CoreCompileInputs.cache
+C:\Users\OliverOwens\OneDrive - WLP\Classes\cs\year 12\Computer Science 12a-CoA 2026 WLG - Oliver Owens - OliverOwens\source\guantanamo\guantanamo\obj\Debug\net10.0\guantanamo.dll
+C:\Users\OliverOwens\OneDrive - WLP\Classes\cs\year 12\Computer Science 12a-CoA 2026 WLG - Oliver Owens - OliverOwens\source\guantanamo\guantanamo\obj\Debug\net10.0\refint\guantanamo.dll
+C:\Users\OliverOwens\OneDrive - WLP\Classes\cs\year 12\Computer Science 12a-CoA 2026 WLG - Oliver Owens - OliverOwens\source\guantanamo\guantanamo\obj\Debug\net10.0\guantanamo.pdb
+C:\Users\OliverOwens\OneDrive - WLP\Classes\cs\year 12\Computer Science 12a-CoA 2026 WLG - Oliver Owens - OliverOwens\source\guantanamo\guantanamo\obj\Debug\net10.0\guantanamo.genruntimeconfig.cache
+C:\Users\OliverOwens\OneDrive - WLP\Classes\cs\year 12\Computer Science 12a-CoA 2026 WLG - Oliver Owens - OliverOwens\source\guantanamo\guantanamo\obj\Debug\net10.0\ref\guantanamo.dll
