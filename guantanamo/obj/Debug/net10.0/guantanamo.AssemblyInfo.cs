@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("guantanamo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c67623ab288478153c19d985a11d9ae40be9811")]
 [assembly: System.Reflection.AssemblyProductAttribute("guantanamo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("guantanamo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

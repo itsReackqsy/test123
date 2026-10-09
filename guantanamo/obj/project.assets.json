@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OliverOwens\\OneDrive - WLP\\Classes\\cs\\year 12\\Computer Science 12a-CoA 2026 WLG - Oliver Owens - OliverOwens\\source\\guantanamo\\guantanamo\\guantanamo.csproj",
+      "projectUniqueName": "C:\\Users\\OliverOwens\\OneDrive - WLP\\Classes\\cs\\year 12\\Computer Science 12a-CoA 2026 WLG - Oliver Owens - OliverOwens\\source\\test123\\guantanamo\\guantanamo.csproj",
       "projectName": "guantanamo",
-      "projectPath": "C:\\Users\\OliverOwens\\OneDrive - WLP\\Classes\\cs\\year 12\\Computer Science 12a-CoA 2026 WLG - Oliver Owens - OliverOwens\\source\\guantanamo\\guantanamo\\guantanamo.csproj",
+      "projectPath": "C:\\Users\\OliverOwens\\OneDrive - WLP\\Classes\\cs\\year 12\\Computer Science 12a-CoA 2026 WLG - Oliver Owens - OliverOwens\\source\\test123\\guantanamo\\guantanamo.csproj",
       "packagesPath": "C:\\Users\\OliverOwens\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\OliverOwens\\OneDrive - WLP\\Classes\\cs\\year 12\\Computer Science 12a-CoA 2026 WLG - Oliver Owens - OliverOwens\\source\\guantanamo\\guantanamo\\obj\\",
+      "outputPath": "C:\\Users\\OliverOwens\\OneDrive - WLP\\Classes\\cs\\year 12\\Computer Science 12a-CoA 2026 WLG - Oliver Owens - OliverOwens\\source\\test123\\guantanamo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
